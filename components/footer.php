@@ -2,8 +2,8 @@
   </main>
 
   <footer class="bg-white pt-16 pb-8 px-6 lg:px-16 border-t-4 border-secondary shadow-inner">
-      <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-start gap-12">
-        <div class="flex-1 flex flex-col">
+      <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-center items-center gap-12">
+        <div class=" flex flex-col">
           <h2 class="text-3xl font-bold text-primary mb-5">Display Doctor</h2>
 
           <address class="not-italic flex flex-col gap-4 mb-6 text-gray-600">
@@ -58,31 +58,6 @@
               </svg>
             </a>
           </div>
-        </div>
-
-        <div class="flex-1 w-full md:flex md:flex-col md:items-end">
-          <h3 class="text-xl font-bold text-primary mb-5">Quick Links</h3>
-          <ul class="flex flex-col gap-3 md:items-end text-gray-600 font-medium">
-            <li>
-              <a href="/index.php"
-                class="hover:text-secondary hover:underline underline-offset-4 transition-all duration-300">Home</a>
-            </li>
-            <li>
-              <a href="#"
-                class="hover:text-secondary hover:underline underline-offset-4 transition-all duration-300">Our
-                Services</a>
-            </li>
-            <li>
-              <a href="#"
-                class="hover:text-secondary hover:underline underline-offset-4 transition-all duration-300">Privacy
-                Policy</a>
-            </li>
-            <li>
-              <a href="#"
-                class="hover:text-secondary hover:underline underline-offset-4 transition-all duration-300">Terms &
-                Conditions</a>
-            </li>
-          </ul>
         </div>
       </div>
 
