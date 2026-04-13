@@ -17,11 +17,17 @@
     content="Get fast, transparent, and affordable doorstep TV repair in Kolkata. We fix LED, LCD, and Smart TVs with same-day service. Contact our experts today!" />
   <meta property="og:image" content="/public/images/preview.png" />
   <meta property="og:type" content="website" />
-
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MTLGHF59');</script>
   <link href="/dist/output.css" rel="stylesheet" />
 </head>
 
 <body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTLGHF59"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <header id="navbar" class="bg-white shadow">
     <?php include_once __DIR__ . '/components/navbar.php'; ?>
   </header>
@@ -30,9 +36,11 @@
 
 
     <section id="hero-section">
-      <div class="bg-secondary text-center p-2 text-primary font-medium text-sm md:text-base">
-        Limited Slots Available Today - Book Now!
-      </div>
+      <div class="bg-secondary text-center p-2 font-medium text-sm md:text-base">
+  <span class="text-primary animate-pulse">
+    Limited Slots Available Today - Book Now!
+  </span>
+</div>
 
       <div
         class="bg-primary w-full min-h-[calc(100vh-40px)] flex flex-col md:flex-row items-center justify-between p-6 lg:p-16 gap-10">

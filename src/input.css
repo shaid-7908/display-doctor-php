@@ -6,3 +6,11 @@
   --color-secondary: #dba621;
   --color-accent: #10b981;
 }
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.animate-blink {
+  animation: blink 1.5s step-start infinite; 
+}
