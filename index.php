@@ -22,7 +22,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MTLGHF59');</script>
-  <link href="/dist/output.css" rel="stylesheet" />
+  <link href="/dist/output.css?v=<?php echo filemtime(__DIR__ . '/dist/output.css'); ?>" rel="stylesheet" />
 </head>
 
 <body>

@@ -1,4 +1,7 @@
 @import "tailwindcss";
+@source "../pages/**/*.php";
+@source "../components/**/*.php";
+@source "../*.php";
 
 @theme {
   /* Define your custom colors here */

@@ -18,7 +18,7 @@
   <meta property="og:image" content="/public/images/preview.png" />
   <meta property="og:type" content="website" />
 
-  <link href="/dist/output.css" rel="stylesheet" />
+  <link href="/dist/output.css?v=<?php echo filemtime(__DIR__ . '/../dist/output.css'); ?>" rel="stylesheet" />
 </head>
 
 <body>

@@ -33,6 +33,7 @@
                         <a href="/index.php" class="rounded-md px-3 py-2 text-sm font-medium text-[#0a3d61]" aria-current="page">Home</a>
                         <a href="/pages/about.php" class="rounded-md px-3 py-2 text-sm font-medium text-[#0a3d61] hover:bg-[#0a3d61] hover:text-white transition">About</a>
                         <a href="/pages/services.php" class="rounded-md px-3 py-2 text-sm font-medium text-[#0a3d61] hover:bg-[#0a3d61] hover:text-white transition">Services</a>
+                        <a href="/pages/warranty.php" class="rounded-md px-3 py-2 text-sm font-medium text-[#0a3d61] hover:bg-[#0a3d61] hover:text-white transition">Warranty</a>
                     </div>
                 </div>
             </div>
@@ -47,6 +48,7 @@
             <a href="/index.php" aria-current="page" class="block rounded-md px-3 py-2 text-base font-medium text-[#0a3d61] bg-[#0a3d61]/10">Home</a>
             <a href="/pages/about.php" class="block rounded-md px-3 py-2 text-base font-medium text-[#0a3d61] hover:bg-[#0a3d61] hover:text-white transition">About</a>
             <a href="/pages/services.php" class="block rounded-md px-3 py-2 text-base font-medium text-[#0a3d61] hover:bg-[#0a3d61] hover:text-white transition">Services</a>
+            <a href="/pages/warranty.php" class="block rounded-md px-3 py-2 text-base font-medium text-[#0a3d61] hover:bg-[#0a3d61] hover:text-white transition">Warranty</a>
         </div>
     </div>
 </nav>
